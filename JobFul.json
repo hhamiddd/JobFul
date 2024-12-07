@@ -1,0 +1,16 @@
+{ "JobFul":
+  
+[
+{ "JobTopic" : "JobFul: job search becomes hopeful","TopicDescription" : "Navigating the work field is difficult to say the least. Navigating it in a completely new environment is daunting. This app aims to help you find resources and cater your individual resume to the jobs you hope to get! We wish you the best of luck, even though you don't need it much - you're amazing.","JobImage" : "welcome.jpg" },
+        
+{ "JobTopic" : "Resources ","TopicDescription" : "Resource that can be utilized include your community, your school if you are a student, job websites dedicated to applying, your local community center, library for research as well as free utilities / resources.","JobImage" : "resources.jpeg" },
+       
+{ "JobTopic" : "Tips for Resume Building ","TopicDescription" : "Tailoring your resume to suit the description of the jobs you're looking for is key. You do not have to change it up with each application - I find that to be tedious. You can have several versions of resumes each for a specific type of occupation / with different levels of detail. In general your resume should showcase not only your achievements and experience - which if you are a student can be limited - but who you are as a person. Your characteristics and how they can be applicable to the role youre aiming for. ","JobImage" : "resume.jpg" },
+        
+{ "JobTopic" : "Career Fairs & Networking ","TopicDescription" : "Network! Network! NETWORK! If you are a student, graduate, or even know someone in school - look at the career events for the week. Make note of the ones you're interested in and show up! It's okay if you don't get a job out of your first one - that's not the point! Showing up already puts you at an advantage. They can be overwhelming / overstimulating sometimes - so do take care of yourself and evaluate if you are up for it. Make sure you make the most out of these though, as attendance or meeting the representative might be exactly what you needed to land that role. ","JobImage" : "careerfair.png" },
+        
+{ "JobTopic" : "Making the Most out of Job Searching","TopicDescription" : "Although the job searching process is overwhelming and discouraging, do not give up. Your time will eventually come. This state in between is where you get to explore and evaluate what you want out of your career. It's not only them choosing you, its you choosing them. When dealing with feelings of overwhelm - make sure to take it easy and take a break. You got this! ","JobImage" : "jobsearch.jpg"}
+
+]
+"Status":"OK"
+}
