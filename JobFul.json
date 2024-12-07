@@ -1,6 +1,6 @@
-{ "JobFul":
-  
-[
+{
+  "JobFul": [
+    
 { "JobTopic" : "JobFul: job search becomes hopeful","TopicDescription" : "Navigating the work field is difficult to say the least. Navigating it in a completely new environment is daunting. This app aims to help you find resources and cater your individual resume to the jobs you hope to get! We wish you the best of luck, even though you don't need it much - you're amazing.","JobImage" : "welcome.jpg" },
         
 { "JobTopic" : "Resources ","TopicDescription" : "Resource that can be utilized include your community, your school if you are a student, job websites dedicated to applying, your local community center, library for research as well as free utilities / resources.","JobImage" : "resources.jpeg" },
@@ -11,6 +11,6 @@
         
 { "JobTopic" : "Making the Most out of Job Searching","TopicDescription" : "Although the job searching process is overwhelming and discouraging, do not give up. Your time will eventually come. This state in between is where you get to explore and evaluate what you want out of your career. It's not only them choosing you, its you choosing them. When dealing with feelings of overwhelm - make sure to take it easy and take a break. You got this! ","JobImage" : "jobsearch.jpg"}
 
-]
+],
 "Status":"OK"
 }
